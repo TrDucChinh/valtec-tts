@@ -84,13 +84,13 @@ Benchmark conducted on:
 ### From Git
 
 ```bash
-pip install git+https://github.com/yourusername/valtec-tts.git
+pip install git+https://github.com/tronghieuit/valtec-tts.git
 ```
 
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/valtec-tts.git
+git clone https://github.com/tronghieuit/valtec-tts.git
 cd valtec-tts
 pip install -e .
 ```
