@@ -31,8 +31,6 @@ Listen to sample outputs from our TTS system:
 
 **[▶️ Watch Web Demo Video](https://github.com/tronghieuit/valtec-tts/raw/dev/examples/ValtecTTS%20-%20WEB.mp4)**
 
-![Web Demo Preview](https://via.placeholder.com/800x450.png?text=Web+Demo+-+Click+link+above+to+watch)
-
 **Features:**
 - ✅ Runs entirely in browser using ONNX Runtime Web
 - ✅ No backend server required
@@ -46,8 +44,6 @@ Listen to sample outputs from our TTS system:
 ### Android Demo - On-Device TTS
 
 **[▶️ Watch Android Demo Video](https://github.com/tronghieuit/valtec-tts/raw/dev/examples/ValtecTTS%20-%20Android.mp4)**
-
-![Android Demo Preview](https://via.placeholder.com/800x450.png?text=Android+Demo+-+Click+link+above+to+watch)
 
 **Features:**
 - ✅ On-device ONNX inference
